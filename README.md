@@ -41,7 +41,8 @@ The model was evaluated using standard regression metrics to verify generalizati
 The project successfully highlights that while physical mass (weight) is the primary predictor of fuel consumption, there is a clear positive trend in efficiency as `model_year` increases. This suggests that engineering advancements have consistently improved MPG over time, independent of vehicle size.
 
 ## 📬 Contact
-**Benjamin Ilevbare** **LinkedIn:** [linkedin.com/in/benjoevy](https://linkedin.com/in/benjoevy)
+**Benjamin Ilevbare** 
+* **LinkedIn:** [linkedin.com/in/benjoevy](https://linkedin.com/in/benjoevy)
 * **Email:** ilevbarebenjaminjoseph@gmail.com
 
 ---
@@ -52,4 +53,5 @@ The project successfully highlights that while physical mass (weight) is the pri
 2. Install dependencies: `pip install pandas scikit-learn seaborn`
 
 3. Open `auto_mpg_project.ipynb` in Jupyter Notebook or VS Code.
+
 
